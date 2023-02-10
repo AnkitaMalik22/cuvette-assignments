@@ -3,10 +3,10 @@
 
 👩‍💻 Frontend Assignments...
 
-| Assignment             | Link                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Assignment 1 | [Click Here](https://cuvette-assignments.vercel.app/)  |
-| Assignment 2 | [Click Here](https://cuvette-assignment-2.vercel.app/)  |
+| Assignment             | Link                                                                | Date                                                                |
+| ----------------- | ------------------------------------------------------------------ |------------------------------------------------------------------ |
+| Assignment 1 | [Click Here](https://cuvette-assignments.vercel.app/)  | 7/02/2023
+| Assignment 2 | [Click Here](https://cuvette-assignment-2.vercel.app/)  | 10/02/2023
 | Assignment 3 | ![]() |
 | Assignment 4 | ![]()  |
 
