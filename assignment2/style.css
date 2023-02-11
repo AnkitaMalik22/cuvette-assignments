@@ -101,8 +101,8 @@ body {
 .container1 {
   width: 95%;
   position: relative;
-  height: 340px;
-  padding: 4rem 0 4rem 2rem;
+  /* height: 340px; */
+  padding:7rem 0 2.5rem 4rem;
 }
 
 #heroImg,
@@ -133,21 +133,22 @@ body {
 /* =================== CONTAINER 2 =========================== */
 .container2 {
   width: 100%;
-  margin-bottom: 2rem;
+  /* padding: 0 2rem; */
+
 }
 .boxes {
-  width: 95%;
-  justify-content: space-between;
+  width: 100%;
+  justify-content: space-evenly;
 }
 .box {
   box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.3);
   border: 1px solid transparent;
   border-radius: 10px;
-  padding: 1rem 3.5rem 1rem 1rem;
+  padding: 1.8rem 5rem 1.8rem 1.8rem;
   font-family: "DM Sans", sans-serif;
   font-weight: 700;
   font-size: 1.3rem;
-  margin-top: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .title {
@@ -175,7 +176,7 @@ body {
   z-index: 2;
 }
 .info {
-  width: 100%;
+  width: 95%;
   background-color: var(--info-box-background);
   border: 2px solid transparent;
   border-radius: 10px;
@@ -215,7 +216,7 @@ body {
   border: 2px solid transparent;
   border-radius: 10px;
   color: var(--info--text-color);
-  padding: 2rem;
+  padding: 2rem 0 1rem 2rem;; 
 }
 .display-heading {
   font-family: "Inter";
@@ -245,11 +246,11 @@ body {
 }
 #arrow {
   position: relative;
-  right: 30px;
+  right: 35px;
 }
 .next-btn {
   background-color: #000000;
-  padding: 0.6rem 2.4rem 0.6rem 0.6rem;
+  padding: 0.8rem 2.8rem 0.8rem 0.8rem;
   color: #ffffff;
   border: 1px solid transparent;
   border-radius: 7px;
@@ -284,6 +285,8 @@ body {
 .sticky {
   position: sticky;
   top: 65px;
+  float: right;
+  margin-top: 45vh;
 }
 
 /* ===================================================================== */
@@ -294,24 +297,41 @@ body {
   .box {
     padding: 1rem 3.5rem 1rem 1rem;
     font-size: 0.9rem;
+    margin-top: 2rem;
   }
   .container1 {
+    margin-top: 6rem;
     width: 95%;
     padding: 4rem 1rem 4rem 2rem;
   }
   #heroImg,
   .hero-img{
-    width: 200px;
+    height: 280px;
   }
 
-  .container1, #heroImg,
-  .hero-img ,.text-box{
-    height: 300px;
+  .container1, .text-box{
+
+    height: 280px;
+  }
+  .sticky{
+ 
+    margin-top:25vh;
   }
   
 }
 @media ( max-width : 800px){ 
+  .container1{
+    width: 90%;
+  }
+  #heroImg,
+  .hero-img{
+    height: 240px;
+  }
 
+  .container1, .text-box{
+
+    height: 240px;
+  }
 
   .box {
     font-size: 0.6rem;
@@ -319,7 +339,9 @@ body {
   
 }
 @media ( max-width : 600px){ 
- 
+  .container1{
+    width: 85%;
+  }
 
   .box {
     padding: 0.7rem 1.5rem 0.7rem 0.7rem;
