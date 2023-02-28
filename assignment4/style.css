@@ -1,0 +1,108 @@
+:root {
+  --primary-color: #42b345;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  margin-top: 5rem;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 500px;
+  padding: 4.5rem;
+  text-align: center;
+  border: 2px solid var(--primary-color) ; 
+}
+
+h1 {
+  margin-bottom: 50px;
+
+  color: var(--primary-color);
+}
+
+.input-group {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.input-group > div {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: #42b345;
+}
+
+.input-group > div > input {
+  margin-top: 1rem;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-size: 36px;
+  padding: 10px;
+  text-align: center;
+  width: 60px;
+}
+
+button {
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  margin-top: 50px;
+  padding: 10px 20px;
+}
+#start {
+  background-color: green;
+}
+#stop {
+  background-color: red;
+}
+#reset {
+  background-color: blue;
+}
+
+.dialog {
+  background-color: var(--primary-color);
+  border-radius: 4px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  display: none;
+  left: 50%;
+  padding: 50px;
+  position: fixed;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  z-index: 1;
+}
+
+.dialog h2 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.dialog button {
+  background-color: white;
+  border: none;
+  border-radius: 4px;
+  color: var(--primary-color);
+  cursor: pointer;
+  font-size: 18px;
+  padding: 10px 20px;
+}
