@@ -11,3 +11,10 @@
 | Assignment 4 | [Click Here](https://timer-app-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/timer-app) | 28/02/2023 | JAVASCRIPT
 | ***Major Project 1*** | [Click Here](https://stone-paper-scissor-alpha.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/Stone-Paper-Scissor) | 19/03/2023 | JAVASCRIPT
 
+#### ❄REACT 
+| Assignment             |  Deployed Link      | Repo Link   |Date                 |  Technology used                                      |
+| ----------------- | ------------------ | ------------------ |------------------------------------------------------------------ |------------------ |
+| ***Major Project 2*** | [Click Here](https://react-notes-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-notes) | 4/05/2023 | REACT
+
+
+
