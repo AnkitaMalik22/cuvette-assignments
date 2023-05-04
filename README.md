@@ -12,9 +12,12 @@
 | ***Major Project 1*** | [Click Here](https://stone-paper-scissor-alpha.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/Stone-Paper-Scissor) | 19/03/2023 | JAVASCRIPT
 
 #### ❄REACT 
-| Assignment             |  Deployed Link      | Repo Link   |Date                 |  Technology used                                      |
+| Assignment             |  Deployed Link      | Repo Link   |Date                 |  App Name                                      |
 | ----------------- | ------------------ | ------------------ |------------------------------------------------------------------ |------------------ |
-| ***Major Project 2*** | [Click Here](https://react-notes-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-notes) | 4/05/2023 | REACT
+| Assignment 1 | [Click Here](https://react-assignment-1-xi.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-assignment-1) | 04/03/2023 | Dweep React
+| Assignment 2 | [Click Here](https://react-assignment-2-delta.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-form) | 30/03/2023 | Dweep React Form
+| ***Capstone Project 1*** | [Click Here](https://super-app-react.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-super-app) | 20/04/2023 | React Super App
+| ***Major Project 2*** | [Click Here](https://react-notes-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-notes) | 4/05/2023 | React Notes
 
 
 
