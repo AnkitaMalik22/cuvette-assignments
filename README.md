@@ -1,7 +1,7 @@
 
 #  cuvette-assignments
 
-👩‍💻 Frontend Assignments...
+👩‍💻 HTML 💀 CSS 😀 JS 🧠
 
 | Assignment             |  Deployed Link      | Repo Link   |Date                 |  Technology used                                      |
 | ----------------- | ------------------ | ------------------ |------------------------------------------------------------------ |------------------ |
@@ -19,5 +19,11 @@
 | ***Capstone Project 1*** | [Click Here](https://super-app-react.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-super-app) | 20/04/2023 | React Super App
 | ***Major Project 2*** | [Click Here](https://react-notes-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/react-notes) | 4/05/2023 | React Notes
 
-
+#### 🌿Node Js
+| Assignment             |  Deployed Link      | Repo Link   |Date                 |  App Name                                      |
+| ----------------- | ------------------ | ------------------ |------------------------------------------------------------------ |------------------ |
+| Assignment 1 | Click Here | [Click Here](https://github.com/AnkitaMalik22/node-express-server) | 14/05/2023 | Node Express Server
+| Assignment 2 | Click Here  | [Click Here](https://github.com/AnkitaMalik22/node-recipe) | 25/05/2023 | Node Recipe
+| ***Capstone Project 2*** | Click Here  | [Click Here](https://github.com/AnkitaMalik22/job-listing) | 13/06/2023 | Job Listing
+| ***Major Project 3*** | [Click Here](https://product-listing-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/product-listing) |  23/06/2023 | Product Listing
 
