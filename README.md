@@ -29,9 +29,9 @@
 
 > $\color{lightblue}{\textrm{Final Evaluation Test}}$ $\color{orange}{ 1 }$
 
-| Assignment             |  Deployed Link      | Repo Link   | Date                 |  status  |
-| ----------------- | ------------------ | ------------------ |------------------------ |------------------------ |
-|  ***Major Project 3 -*** Product Listing | [Click Here](https://product-listing-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/product-listing) |  23/06/2023 | $\color{green}{passed}$ |
+| Assignment             |  Deployed Link      | Repo Link   | Date                 |  status  | Marks | 
+| ----------------- | ------------------ | ------------------ |------------------------ |------------------------ | ------------------------ |
+|  ***Major Project 3 -*** Product Listing | [Click Here](https://product-listing-ankitamalik22.vercel.app/)  | [Click Here](https://github.com/AnkitaMalik22/product-listing) |  23/06/2023 | $\color{green}{passed}$ | 38/50 |
 ---
 #### 👩‍💻Interview
 | Type             |  Date      | Status  |   
@@ -42,7 +42,7 @@
 
 > $\color{lightblue}{\textrm{Final Evaluation Test}}$ $\color{orange}{ 2 }$
 
-| Assignment             |  Deployed Link      | Repo Link   |Date                 |  status  |
-| ----------------- | ------------------ | ------------------ |-------------- | ---------------- |
-| swipTory | Click Here | [Click Here](https://github.com/AnkitaMalik22/SwipTory) | 28/08/2023 | -  |
+| Assignment             |  Deployed Link      | Repo Link   |Date                 |  status  | Marks |
+| ----------------- | ------------------ | ------------------ |-------------- | ---------------- | ---------------- |
+| swipTory | Click Here | [Click Here](https://github.com/AnkitaMalik22/SwipTory) | 28/08/2023 | $\color{green}{passed}$ | 46/50 |
 ---
