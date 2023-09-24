@@ -46,3 +46,8 @@
 | ----------------- | ------------------ | ------------------ |-------------- | ---------------- | ---------------- |
 | swipTory | Click Here | [Click Here](https://github.com/AnkitaMalik22/SwipTory) | 28/08/2023 | $\color{green}{passed}$ | 46/50 |
 ---
+#### 👩‍💻Interview
+| Type             |  Date      | Status  |   
+| ----------------- | ------------------ | -----------------|
+| Technical | 23 Sept |  $\color{green}{passed}$ | 14/05/2023 | 
+---
